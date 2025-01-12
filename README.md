@@ -1,2 +1,2 @@
-# My-HTML-CV
+# My-CV
 My professional CV
